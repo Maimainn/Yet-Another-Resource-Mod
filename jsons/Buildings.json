@@ -1,163 +1,185 @@
-[	
-	{
-		"name": "Casa de Aves",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Loro", "Emu"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+5 Happiness] from [Loro] tiles [in this city]",
-			"[+5 Happiness] from [Emu] tiles [in this city]"],
-		"requiredTech": "Optics"
-	},
-      {
-		"name": "Casa de Reptiles",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Cocodrilo", "Serpiente", "Yacare"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+5 Happiness] from [Cocodrilo] tiles [in this city]",
-                  "[+5 Happiness] from [Yacare] tiles [in this city]",
-			"[+5 Happiness] from [Serpiente] tiles [in this city]"],
-		"requiredTech": "Philosophy"
-	},
-      {
-		"name": "Casa Abstracta",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Rana", "Jirafa"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+5 Happiness] from [Rana] tiles [in this city]",
-			"[+5 Happiness] from [Jirafa] tiles [in this city]"],
-		"requiredTech": "Currency"
-	},
-      {
-		"name": "Ketupat Sotong",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Calamar"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+3 Food] from [Calamar] tiles [in this city]"],
-		"requiredTech": "Philosophy"
-	},
-      {
-		"name": "Casa de Tapir",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Tapir"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+3 Culture] from [Tapir] tiles [in this city]"],
-		"requiredTech": "Civil Service"
-	},
-      {
-		"name": "Casa de Frutas",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Manzana", "Tomate", "Pera", "Mango"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+3 Food] from [Manzana] tiles [in this city]",
-                  "[+3 Food] from [Tomate] tiles [in this city]",
-                  "[+3 Food] from [Pera] tiles [in this city]",
-			"[+3 Food] from [Mango] tiles [in this city]"],
-		"requiredTech": "Currency"
-	},
-      {
-		"name": "Casa de Frutas Tropicales",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Cacao", "Durian", "Sandia", "Aguacate"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+3 Food] from [Cacao] tiles [in this city]",
-                  "[+3 Food] from [Durian] tiles [in this city]",
-                  "[+3 Food] from [Sandia] tiles [in this city]",
-			"[+3 Food] from [Aguacate] tiles [in this city]"],
-		"requiredTech": "Currency"
-	},
-      {
-		"name": "Llanos",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Armadillo", "Aguara Guazu", "Ciruela", "Oso Hormiguero"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+3 Food] from [Armadillo] tiles [in this city]",
-                            "[+3 Food] from [Aguara Guazu] tiles [in this city]",
-                  "[+3 Food] from [Ciruela] tiles [in this city]",
-			"[+3 Food] from [Oso Hormiguero] tiles [in this city]"],
-		"requiredTech": "Currency"
-	},
-      {
-		"name": "Poseciones Peligrosas",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Emu", "Erizo", "Okapi", "Babuino"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+3 Gold] from [Emu] tiles [in this city]",
-                            "[+3 Gold] from [Okapi] tiles [in this city]",
-                            "[+3 Gold] from [Babuino] tiles [in this city]",
-			"[+3 Gold] from [Erizo] tiles [in this city]"],
-		"requiredTech": "Civil Service"
-	},
-      {
-		"name": "Casa del Desierto",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Fennec", "Malaquita", "Cactus", "Dromedario"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+3 Gold] from [Fennec] tiles [in this city]",
-                        "[+2 Food] from [Cactus] tiles [in this city]",
-                        "[+2 Production] from [Malaquita] tiles [in this city]",
-			"[+3 Gold] from [Dromedario] tiles [in this city]"],
-		"requiredTech": "Currency"
-	},
-      {
-		"name": "Estero",
-                "requiredNearbyImprovedResources": ["Nutria", "Yacare"],
-		"maintenance": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["[+3 Food] from [Nutria] tiles [in this city]",
-			"[+20 Food] from [Yacare] tiles [in this city]"],
-		"requiredTech": "Sailing"
-	},
-      {
-		"name": "Pajonal",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Liebre", "Pato", "Jabali"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+3 Food] from [Liebre] tiles [in this city]",
-                  "[+3 Food] from [Pato] tiles [in this city]",
-			"[+3 Food] from [Jabali] tiles [in this city]"],
-		"requiredTech": "Construction"
-	},
-      {
-		"name": "Casa de Hielo",
-		"maintenance": 1,
-                "requiredNearbyImprovedResources": ["Albatross", "Pinguino", "Gaviota"],
-		"hurryCostModifier": 25,
-		"uniques": ["[+4 Food] from [Albatross] tiles [in this city]",
-                  "[+4 Food] from [Pinguino] tiles [in this city]",
-			"[+4 Food] from [Gaviota] tiles [in this city]"],
-		"requiredTech": "Optics"
-	},
-        {
-		"name": "Almacen de Fertilizante",
-                "food": 1,
-                "uniques": ["[+1 Gold, +1 Food] from [Farm] tiles [in this city]"],
-		"hurryCostModifier": 25,
-		"requiredResource": "Salitre"
-		"requiredTech": "Military Science"
-	},
-         {
-		"name": "Fabrica a Gas",
-		"cost": 430,
-		"production": 3,
-		"percentStatBonus": {"production": 7},
-		"specialistSlots": {"Engineer": 1},
-		"requiredBuilding": "Factory",
-		"maintenance": 1,
-		"hurryCostModifier": 0,
-		"requiredResource": "Gas Natural",
-		"requiredTech": "Biology"
-	},
-         {
-		"name": "Planta Hidroelectrica",
-                "requiredNearbyImprovedResources": ["Agua Fresca"],
-		"cost": 430,
-		"production": 3,
-		"percentStatBonus": {"production": 7},
-		"specialistSlots": {"Engineer": 1},
-		"requiredBuilding": "Factory",
-		"maintenance": 1,
-		"hurryCostModifier": 0,
-		"requiredResource": "Agua Fresca",
-		"requiredTech": "Biology"
-	},
+[
+  {
+    "name": "Casa de Aves",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Loro", "Emu"],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+5 Happiness] from [Loro] tiles [in this city]",
+      "[+5 Happiness] from [Emu] tiles [in this city]"
+    ],
+    "requiredTech": "Optics"
+  },
+  {
+    "name": "Casa de Reptiles",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Cocodrilo", "Serpiente", "Yacare"],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+5 Happiness] from [Cocodrilo] tiles [in this city]",
+      "[+5 Happiness] from [Yacare] tiles [in this city]",
+      "[+5 Happiness] from [Serpiente] tiles [in this city]"
+    ],
+    "requiredTech": "Philosophy"
+  },
+  {
+    "name": "Casa Abstracta",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Rana", "Jirafa"],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+5 Happiness] from [Rana] tiles [in this city]",
+      "[+5 Happiness] from [Jirafa] tiles [in this city]"
+    ],
+    "requiredTech": "Currency"
+  },
+  {
+    "name": "Ketupat Sotong",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Calamar"],
+    "hurryCostModifier": 25,
+    "uniques": ["[+3 Food] from [Calamar] tiles [in this city]"],
+    "requiredTech": "Philosophy"
+  },
+  {
+    "name": "Casa de Tapir",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Tapir"],
+    "hurryCostModifier": 25,
+    "uniques": ["[+3 Culture] from [Tapir] tiles [in this city]"],
+    "requiredTech": "Civil Service"
+  },
+  {
+    "name": "Casa de Frutas",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Manzana", "Tomate", "Pera", "Mango"],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+3 Food] from [Manzana] tiles [in this city]",
+      "[+3 Food] from [Tomate] tiles [in this city]",
+      "[+3 Food] from [Pera] tiles [in this city]",
+      "[+3 Food] from [Mango] tiles [in this city]"
+    ],
+    "requiredTech": "Currency"
+  },
+  {
+    "name": "Casa de Frutas Tropicales",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Cacao", "Durian", "Sandia", "Aguacate"],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+3 Food] from [Cacao] tiles [in this city]",
+      "[+3 Food] from [Durian] tiles [in this city]",
+      "[+3 Food] from [Sandia] tiles [in this city]",
+      "[+3 Food] from [Aguacate] tiles [in this city]"
+    ],
+    "requiredTech": "Currency"
+  },
+  {
+    "name": "Llanos",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Armadillo", "Aguara Guazu", "Ciruela", "Oso Hormiguero"],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+3 Food] from [Armadillo] tiles [in this city]",
+      "[+3 Food] from [Aguara Guazu] tiles [in this city]",
+      "[+3 Food] from [Ciruela] tiles [in this city]",
+      "[+3 Food] from [Oso Hormiguero] tiles [in this city]"
+    ],
+    "requiredTech": "Currency"
+  },
+  {
+    "name": "Poseciones Peligrosas",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Emu", "Erizo", "Okapi", "Babuino"],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+3 Gold] from [Emu] tiles [in this city]",
+      "[+3 Gold] from [Okapi] tiles [in this city]",
+      "[+3 Gold] from [Babuino] tiles [in this city]",
+      "[+3 Gold] from [Erizo] tiles [in this city]"
+    ],
+    "requiredTech": "Civil Service"
+  },
+  {
+    "name": "Casa del Desierto",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Fennec", "Malaquita", "Cactus", "Dromedario"],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+3 Gold] from [Fennec] tiles [in this city]",
+      "[+2 Food] from [Cactus] tiles [in this city]",
+      "[+2 Production] from [Malaquita] tiles [in this city]",
+      "[+3 Gold] from [Dromedario] tiles [in this city]"
+    ],
+    "requiredTech": "Currency"
+  },
+  {
+    "name": "Estero",
+    "requiredNearbyImprovedResources": ["Nutria", "Yacare"],
+    "maintenance": 1,
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+3 Food] from [Nutria] tiles [in this city]",
+      "[+20 Food] from [Yacare] tiles [in this city]"
+    ],
+    "requiredTech": "Sailing"
+  },
+  {
+    "name": "Pajonal",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Liebre", "Pato", "Jabali"],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+3 Food] from [Liebre] tiles [in this city]",
+      "[+3 Food] from [Pato] tiles [in this city]",
+      "[+3 Food] from [Jabali] tiles [in this city]"
+    ],
+    "requiredTech": "Construction"
+  },
+  {
+    "name": "Casa de Hielo",
+    "maintenance": 1,
+    "requiredNearbyImprovedResources": ["Albatross", "Pinguino", "Gaviota"],
+    "hurryCostModifier": 25,
+    "uniques": [
+      "[+4 Food] from [Albatross] tiles [in this city]",
+      "[+4 Food] from [Pinguino] tiles [in this city]",
+      "[+4 Food] from [Gaviota] tiles [in this city]"
+    ],
+    "requiredTech": "Optics"
+  },
+  {
+    "name": "Almacen de Fertilizante",
+    "food": 1,
+    "uniques": ["[+1 Gold, +1 Food] from [Farm] tiles [in this city]"],
+    "hurryCostModifier": 25,
+    "requiredResource": "Salitre",
+    "requiredTech": "Military Science"
+  },
+  {
+    "name": "Fabrica a Gas",
+    "cost": 430,
+    "production": 3,
+    "percentStatBonus": {"production": 7},
+    "specialistSlots": {"Engineer": 1},
+    "requiredBuilding": "Factory",
+    "maintenance": 1,
+    "hurryCostModifier": 0,
+    "requiredResource": "Gas Natural",
+    "requiredTech": "Biology"
+  },
+  {
+    "name": "Planta Hidroelectrica",
+    "requiredNearbyImprovedResources": ["Agua Fresca"],
+    "cost": 430,
+    "production": 3,
+    "percentStatBonus": {"production": 7},
+    "specialistSlots": {"Engineer": 1},
+    "requiredBuilding": "Factory",
+    "maintenance": 1,
+    "hurryCostModifier": 0,
+    "requiredResource": "Agua Fresca",
+    "requiredTech": "Biology"
+  }
 ]
